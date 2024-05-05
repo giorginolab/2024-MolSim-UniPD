@@ -1,6 +1,9 @@
 PRELIMINARY SYLLABUS
 ====================
 
+Toni Giorgino, CNR-IBF
+
+
 # Prerequisites
 
 Some familiarity with the following.

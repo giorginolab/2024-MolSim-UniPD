@@ -102,8 +102,13 @@ Some familiarity with the following.
 
 # Reading material
 
->  Giorgino T. [Analysis libraries for molecular trajectories: a cross-language synopsis](https://link.springer.com/protocol/10.1007/978-1-4939-9608-7_20). In: Bonomi M, Camilloni C, editors. [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070). Humana Press; 2019. p. 503–27. (Methods in Molecular Biology 2022). ISBN 978-1-4939-9608-7. [doi:10.1007/978-1-4939-9608-7\_20](https://doi.org/10.1007/978-1-4939-9608-7_20) available from [https://github.com/giorginolab/analysis\_libraries\_chapter](https://github.com/giorginolab/analysis_libraries_chapter) 
-    
+1. Giorgino T. [Analysis libraries for molecular trajectories: a cross-language synopsis](https://link.springer.com/protocol/10.1007/978-1-4939-9608-7_20). In: Bonomi M, Camilloni C, editors. [Biomolecular Simulations: Methods and Protocols](https://www.springer.com/it/book/9781493996070). Humana Press; 2019. p. 503–27. (Methods in Molecular Biology 2022). ISBN 978-1-4939-9608-7. [doi:10.1007/978-1-4939-9608-7\_20](https://doi.org/10.1007/978-1-4939-9608-7_20) available from [https://github.com/giorginolab/analysis\_libraries\_chapter](https://github.com/giorginolab/analysis_libraries_chapter) 
+1. Brini E, Simmerling C, Dill K. Protein storytelling through physics. Science. 2020 Nov 27;370(6520). 
+2. Dror RO, Dirks RM, Grossman JP, Xu H, Shaw DE. Biomolecular Simulation: A Computational Microscope for Molecular Biology. Annual Review of Biophysics. 2012;41(1):429–52. 
+1. Lindorff-Larsen K, Piana S, Dror RO, Shaw DE. How Fast-Folding Proteins Fold. Science. 2011 Oct 28;334(6055):517–20. 
+1. Doerr S, Giorgino T, Martínez-Rosell G, Damas JM, De Fabritiis G. High-Throughput Automated Preparation and Simulation of Membrane Proteins with HTMD. J Chem Theory Comput. 2017 Sep 12;13(9):4003–11. 
+
+
 
 Each class includes theoretical explanations, practical demonstrations, and hands-on exercises using OpenMM and Python.
 

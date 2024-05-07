@@ -1,0 +1,30 @@
+source leaprc.protein.ff19SB
+source leaprc.gaff2
+source leaprc.water.tip3p
+# source frcmod.ionsjc_tip3p
+
+chain0 = loadpdb chain0.pdb
+check chain0
+
+NIL = loadmol2 NIL_r.mol2
+loadamberparams NIL.frcmod
+check NIL
+
+cpx = combine { chain0 NIL }
+
+solvatebox cpx TIP3PBOX 12 iso
+check cpx
+
+# Total charge is -7
+
+addions cpx Na+ 27 Cl- 20
+
+# Total charge is now ~0
+
+saveamberparm cpx cpx.prmtop cpx.rst7
+savepdb cpx cpx.pdb
+
+quit
+
+
+

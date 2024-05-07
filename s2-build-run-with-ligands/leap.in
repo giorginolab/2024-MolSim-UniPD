@@ -21,6 +21,7 @@ addions cpx Na+ 27 Cl- 20
 
 # Total charge is now ~0
 
+relax cpx
 saveamberparm cpx cpx.prmtop cpx.rst7
 savepdb cpx cpx.pdb
 

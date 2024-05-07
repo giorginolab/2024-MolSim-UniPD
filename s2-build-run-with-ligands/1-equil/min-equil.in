@@ -1,0 +1,22 @@
+#
+barostat             	on
+barostatpressure     	1.01325
+#boxsize              	81.11400604248047 81.10700225830078 81.10900115966797
+coordinates          	../cpx.pdb
+cutoff               	9
+minimize             	500
+parmfile             	../cpx.prmtop
+pme                  	on
+restart              	on
+#structure            	cpx.pdb
+switchdistance       	7.5
+switching            	on
+temperature          	325
+thermostat           	on
+thermostatdamping    	1
+thermostattemperature	325
+timestep             	1
+trajectoryfile       	output.xtc
+trajectoryperiod     	1000
+atomRestraint        	"protein and name CA" axes xyz width "0" setpoints 1@0 0@5000
+run                  	10000

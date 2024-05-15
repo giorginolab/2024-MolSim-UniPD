@@ -16,4 +16,7 @@ The code contained in this repo is structure in large part as IPython notebooks.
 Here are the links:
 
 * Analysis with MDTraj: https://github.com/giorginolab/MD-Tutorial-Data/blob/main/notebooks/2_MDTraj_analysis.ipynb . If "open in Colab" does not work automatically, manually open Colab and point it to said address.
-* Docking: https://github.com/giorginolab/2024-MolSim-UniPD/blob/main/docking/Docking_2024.ipynb or https://colab.research.google.com/drive/1J0at4RhO00BUUI1r1MR6N5sfZdLPZLgj#scrollTo=p0YeFvWR-2aB . Same as above.
+* Docking: https://github.com/giorginolab/2024-MolSim-UniPD/blob/main/docking/Docking_2024.ipynb or [here](https://colab.research.google.com/drive/1J0at4RhO00BUUI1r1MR6N5sfZdLPZLgj) . Same as above.
+
+Remember that we use condacolab, so there will be an initial restart of the kernel.
+
